@@ -1,13 +1,13 @@
 update_name
 ===========
 
-##これなぁに?
+##これなぁに
 
 @XXX update_name XXXで名前が変わるようになるプログラムです。
 
 url,locationも変えることができます。
 
-##How to Use
+##どーやって使うの
 
 Linux系のOSでしか動かないと思います。windowsで動かすのはめんどくさいです。rubyが要ります。
 
